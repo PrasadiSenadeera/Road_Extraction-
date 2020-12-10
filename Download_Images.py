@@ -71,11 +71,11 @@ if __name__ == "__main__":
     URL_VALI_GT="https://www.cs.toronto.edu/~vmnih/data/mass_roads/valid/map/index.html"
 
     
-    #html_url_parser(url=URL_TRAIN_IMG, save_dir="./road_segmentation/training/input/")
-    #html_url_parser(url=URL_TRAIN_GT, save_dir="./road_segmentation/training/output/")
+    html_url_parser(url=URL_TRAIN_IMG, save_dir="./road_segmentation/training/input/")
+    html_url_parser(url=URL_TRAIN_GT, save_dir="./road_segmentation/training/output/")
 
-    #html_url_parser(url=URL_TEST_IMG, save_dir="./road_segmentation/testing/input/")
-    #html_url_parser(url=URL_TEST_GT, save_dir="./road_segmentation/testing/output/")
+    html_url_parser(url=URL_TEST_IMG, save_dir="./road_segmentation/testing/input/")
+    html_url_parser(url=URL_TEST_GT, save_dir="./road_segmentation/testing/output/")
     
     html_url_parser(url=URL_VALI_IMG, save_dir="./road_segmentation/validation/input/")
     html_url_parser(url=URL_VALI_GT, save_dir="./road_segmentation/validation/output/")
