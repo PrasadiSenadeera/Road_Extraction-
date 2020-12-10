@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Oct 18 16:01:30 2020
+Create textures and edge detection bands to use as inputs to the Random forest and SVM classifiers
 
 @author: THILANKA
 """
