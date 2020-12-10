@@ -1,3 +1,4 @@
-# Road_Extraction
+# Master Thesis for complete the Master of Science in Geospatial Technologies at NOVA Information Management School in Lisbon, Portugal
 
-This project was done to fulfill the thesis for the Master in Geospatial Technologies of the NOVA Information Management School of Lisbon
+▪ Thesis title: Develop an automatic road extraction method to delineate roads from high resolution images
+▪ Advisors: Prof. Dr. Mauro Castelli, Ph.D., Prof. Dr. Filiberto Pla, Ph.D., Mr. Nuno Alpalhão, MSc.
