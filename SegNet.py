@@ -24,13 +24,13 @@ in_channels=3
 
 
 #User paths
-TRAIN_PATH = 'road_segmentation/validation/input_300_1'
+TRAIN_PATH = ''
 Train_images = os.listdir(TRAIN_PATH)
-LABEL_PATH = 'road_segmentation/validation/output_300_1'
+LABEL_PATH = ''
 Label_images = os.listdir(LABEL_PATH)
-TEST_PATH = 'road_segmentation/testing/input_300'
+TEST_PATH = ''
 Test_images = os.listdir(TEST_PATH)
-TEST_LABEL_PATH = 'road_segmentation/testing/output_300'
+TEST_LABEL_PATH = ''
 Test_Label_images = os.listdir(TEST_LABEL_PATH)
 #############################################   Reading training Data   ################################
 
