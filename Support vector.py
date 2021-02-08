@@ -23,9 +23,9 @@ import os
 
 
 #read images
-image_directory = 'road_segmentation/validation/input_300_1'
+image_directory = ''
 images = os.listdir(image_directory)
-label_directory = 'road_segmentation/validation/output_300_1'
+label_directory = ''
 L_images = os.listdir(label_directory)
 
 #Create an empty Data frame 
