@@ -14,9 +14,9 @@ from matplotlib import pyplot as plt
 import numpy as np
 
 #read images
-image_directory = 'road_segmentation/prasadi'
+image_directory = ''
 images = os.listdir(image_directory)
-output_directory = 'road_segmentation/textures/prasadi'
+output_directory = ''
 
 
 for i, image_name in enumerate(images): #Remember enumerate method adds a counter and returns the enumerate object
